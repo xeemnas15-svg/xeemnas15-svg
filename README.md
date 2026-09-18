@@ -16,12 +16,11 @@ MERL/MEAL professional, community development practitioner, and data analyst bas
 
 ## 🎓 Fellowships & Training
 
-- Full Fellow, **Nigeria Jubilee Fellows Programme (NJFP)**
 - Fellow, **She Code Africa Kaduna Chapter** — Technical Deep Dive 3.0, Data Analysis with Power BI
-- Selected, **Women at the Front of Digital Spaces Fellowship** (Smart Aid Initiative, Cohort 1)
-
+- Fellow, **SheBuilds AI Fellowship** (Brain Builders Youth Development Initiative, Kaduna) — inaugural cohort
+- Fellow, **HBS Nigeria Green Academy 2026**
+- Fellow, **Women at the Front of Digital Spaces Fellowship** (Smart Aid Initiative, Cohort 1)
 ## 🛠️ Tools & Skills
-
 `Power BI` · `Microsoft Excel` · `KoboToolbox` · `Google Forms`
 
 Data modelling · DAX · Power Query · Data visualisation · M&E frameworks · Survey design
